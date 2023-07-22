@@ -1,4 +1,4 @@
-<h4>Car wash website using a template</h4>
+<h3>Car wash website using a template</h3>
 
 <p>Template Name: Bethany</p>
 <p>Template URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/</p>
